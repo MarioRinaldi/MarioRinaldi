@@ -1,6 +1,9 @@
 
-My name is Mário, actually working with development (javascript, most parte of time)
-My passion is code, coffee (from bean to cup), photography, bike, gaming and something betweeen this things
+Hi, it's me, Mário!
+
+Currently working with development (javascript, mostly).
+
+My passions includes coding, coffee (from bean to cup), photography, bike, gaming and something betweeen those things
 
 <!---
 MarioRinaldi/MarioRinaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
